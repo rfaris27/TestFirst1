@@ -1,0 +1,15 @@
+/workspaces/TestFirst1/bin/Debug/net9.0/TestFirst1
+/workspaces/TestFirst1/bin/Debug/net9.0/TestFirst1.deps.json
+/workspaces/TestFirst1/bin/Debug/net9.0/TestFirst1.runtimeconfig.json
+/workspaces/TestFirst1/bin/Debug/net9.0/TestFirst1.dll
+/workspaces/TestFirst1/bin/Debug/net9.0/TestFirst1.pdb
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.AssemblyInfoInputs.cache
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.AssemblyInfo.cs
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.csproj.CoreCompileInputs.cache
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.sourcelink.json
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.dll
+/workspaces/TestFirst1/obj/Debug/net9.0/refint/TestFirst1.dll
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.pdb
+/workspaces/TestFirst1/obj/Debug/net9.0/TestFirst1.genruntimeconfig.cache
+/workspaces/TestFirst1/obj/Debug/net9.0/ref/TestFirst1.dll

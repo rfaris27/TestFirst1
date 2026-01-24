@@ -1,0 +1,25 @@
+{
+    "name": "Java & C# WPI",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/dotnet:1": {
+            "version": "latest"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "editor.formatOnSave": true
+            },
+            "extensions": [
+                "vscjava.vscode-java-pack",
+                "ms-dotnettools.csdevkit",
+                "ms-dotnettools.csharp",
+                "editorconfig.editorconfig"
+            ]
+        }
+    },
+    "remoteUser": "vscode"
+}
